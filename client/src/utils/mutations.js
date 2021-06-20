@@ -28,7 +28,7 @@ export const ADD_USER = gql`mutation addUser($username: String!, $password: Stri
     }
 }`;
 
-export const SAVE_BOOK = `gql mutation saveBook($bookId: ID!) {
+export const SAVE_BOOK = gql` mutation saveBook($bookId: ID!) {
     saveBook(bookId: $bookId) {
         _id
         username
@@ -46,7 +46,7 @@ export const SAVE_BOOK = `gql mutation saveBook($bookId: ID!) {
     }
 }`;
 
-export const REMOVE_BOOK = `gql mutation removeBook($bookId: ID!) {
+export const REMOVE_BOOK = gql` mutation removeBook($bookId: ID!) {
     removeBook(bookId: $bookId) {
         _id
         username
