@@ -1,11 +1,3 @@
-
-<<<<<<< HEAD
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/rjhelm/book-search-engine">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 =======
 <p align="center">
   <a href="https://github.com/rjhelm/book-search-engine"></a>
@@ -51,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Book Search Engine Screenshot][product-screenshot]](./assets/book-searched.png)
+![Book Search Engine Screenshot](./assets/book-searched.png)
 
 This is a book search engine web app that utilizes a react front-end, express backend. It utilizes several tools including:
 GraphQL, ApolloClient, GoogleBooks API. GraphQL typeDefs and resolvers allow for several queries and mutations based on the model data,
