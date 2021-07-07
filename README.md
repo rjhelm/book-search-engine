@@ -1,7 +1,6 @@
-=======
+
 <p align="center">
   <a href="https://github.com/rjhelm/book-search-engine"></a>
->>>>>>> f4e1be3afb43b3f7a056e54af4da2936228557c6
 
   <h3 align="center">book-search-engine</h3>
 
@@ -9,11 +8,9 @@
     A book searching tool that allows users to register and login, they can save books they search for later.
     <br />
     <a href="https://github.com/rjhelm/book-search-engine"><strong>The Repo »</strong></a>
-<<<<<<< HEAD
-=======
+
   <br />
->>>>>>> f4e1be3afb43b3f7a056e54af4da2936228557c6
-    <a href="https://secret-beyond-27659.herokuapp.com/">Deployed At<strong>The Repo »</strong></a>
+    <a href="https://secret-beyond-27659.herokuapp.com/">Deployed At<strong></strong></a>
     <br />
     <br />
   </p>
@@ -43,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Book Search Engine Screenshot](./assets/book-searched.png)
+![Book Search Engine Screenshot](https://github.com/rjhelm/book-search-engine/blob/main/assets/book-searched.PNG?raw=true)
 
 This is a book search engine web app that utilizes a react front-end, express backend. It utilizes several tools including:
 GraphQL, ApolloClient, GoogleBooks API. GraphQL typeDefs and resolvers allow for several queries and mutations based on the model data,
