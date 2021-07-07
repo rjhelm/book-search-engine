@@ -1,10 +1,15 @@
 
+<<<<<<< HEAD
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/rjhelm/book-search-engine">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+=======
+<p align="center">
+  <a href="https://github.com/rjhelm/book-search-engine"></a>
+>>>>>>> f4e1be3afb43b3f7a056e54af4da2936228557c6
 
   <h3 align="center">book-search-engine</h3>
 
@@ -12,6 +17,10 @@
     A book searching tool that allows users to register and login, they can save books they search for later.
     <br />
     <a href="https://github.com/rjhelm/book-search-engine"><strong>The Repo »</strong></a>
+<<<<<<< HEAD
+=======
+  <br />
+>>>>>>> f4e1be3afb43b3f7a056e54af4da2936228557c6
     <a href="https://secret-beyond-27659.herokuapp.com/">Deployed At<strong>The Repo »</strong></a>
     <br />
     <br />
@@ -85,3 +94,7 @@ Node must be installed on your computer.
 Your Name - [@ryanj_dev](https://twitter.com/ryanj_dev) - ryjhelm@gmail.com
 
 Project Link: [https://github.com/rjhelm/book-search-engine](https://github.com/rjhelm/book-search-engine)
+<<<<<<< HEAD
+=======
+
+>>>>>>> f4e1be3afb43b3f7a056e54af4da2936228557c6
