@@ -83,7 +83,5 @@ Node must be installed on your computer.
 Your Name - [@ryanj_dev](https://twitter.com/ryanj_dev) - ryjhelm@gmail.com
 
 Project Link: [https://github.com/rjhelm/book-search-engine](https://github.com/rjhelm/book-search-engine)
-<<<<<<< HEAD
-=======
 
->>>>>>> f4e1be3afb43b3f7a056e54af4da2936228557c6
+
