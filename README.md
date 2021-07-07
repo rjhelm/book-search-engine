@@ -1,10 +1,6 @@
 
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="https://github.com/rjhelm/book-search-engine">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <a href="https://github.com/rjhelm/book-search-engine"></a>
 
   <h3 align="center">book-search-engine</h3>
 
@@ -12,6 +8,7 @@
     A book searching tool that allows users to register and login, they can save books they search for later.
     <br />
     <a href="https://github.com/rjhelm/book-search-engine"><strong>The Repo »</strong></a>
+  <br />
     <a href="https://secret-beyond-27659.herokuapp.com/">Deployed At<strong>The Repo »</strong></a>
     <br />
     <br />
